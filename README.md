@@ -3,6 +3,7 @@
 Projeto de modelagem de banco de dados relacional e consultas SQL avançadas desenvolvido para o sistema de PDV de uma papelaria.
 
 ## Tecnologias Utilizadas
+* XAMPP (MySQL Server)
 * MySQL / MySQL Workbench
 * Modelagem Relacional (DER)
 * Consultas Avançadas (JOINs, Funções de Agregação, Subconsultas, KPIs)
@@ -17,13 +18,13 @@ O banco de dados é composto por 4 tabelas principais:
 ## Diagrama Entidade-Relacionamento (DER)
 *(Cole aqui o print do seu diagrama gerado no MySQL Workbench)*
 <p align="center">
-  <img src="COLIQUE_O_LINK_OU_ARQUIVO_DO_DIAGRAMA_AQUI" alt="Diagrama DER" width="850">
+  <img src="diagrama.png" alt="Diagrama DER" width="850">
 </p>
 
 ## Visualização das Consultas e Indicadores
 *(Cole aqui prints do MySQL Workbench mostrando as consultas ou os desafios extras rodando)*
 <p align="center">
-  <img src="COLIQUE_O_LINK_OU_ARQUIVO_DA_CONSULTA_AQUI" alt="Consultas SQL" width="850">
+  <img src="consultas.png" alt="Consultas SQL" width="850">
 </p>
 
 ## Como Executar
