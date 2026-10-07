@@ -16,13 +16,11 @@ O banco de dados é composto por 4 tabelas principais:
 * `itens_venda`: Detalhamento dos produtos vendidos em cada transação (com restrição de exclusão em cascata).
 
 ## Diagrama Entidade-Relacionamento (DER)
-*(Cole aqui o print do seu diagrama gerado no MySQL Workbench)*
 <p align="center">
   <img src="diagrama.png" alt="Diagrama DER" width="850">
 </p>
 
 ## Visualização das Consultas e Indicadores
-*(Cole aqui prints do MySQL Workbench mostrando as consultas ou os desafios extras rodando)*
 <p align="center">
   <img src="consultas.png" alt="Consultas SQL" width="850">
 </p>
